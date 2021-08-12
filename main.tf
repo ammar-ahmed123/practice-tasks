@@ -2,8 +2,8 @@
 # condition ? true_value : false_value
 
 provider "aws" {
-  access_key = "AKIA2RMGVIL4BTBIFXY5"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
   region     = "us-west-2"
 }
 /*
